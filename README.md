@@ -1,3 +1,6 @@
+    可以用cpu生成, 但是速度比不上piper-tts, 而且生成的女声 有口音, 口齿不清晰,
+    不适合像piper-tts一样反过来 生成 asr训练 的素材
+
 <div align="center">
   <div>&nbsp;</div>
   <img src="logo.png" width="200"/> 
